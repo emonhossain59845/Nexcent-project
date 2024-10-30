@@ -1,0 +1,32 @@
+/* * PHONE DEVICE */
+@media (max-width: 991px){}
+
+/* nav {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+} */
+nav .navbar-toggler{
+    border: none;
+    font-size: 25px;
+    box-shadow: 0;
+}
+nav.navbar-toggler:focus{
+    box-shadow: none;
+}
+#banner {
+    padding: 35px 0;
+}
+nav #myMenu{
+    padding:0 10px;
+}
+#banner h1{
+    font-size: 42px;
+}
+#banner .img-fulid {
+    max-width: 60%;
+}
+nav #myMenu li a.nav-link {
+    padding: 12px 25px;
+}
+
+/* * DESKTOP DEVICE */
+@media (min-width:992px){}
